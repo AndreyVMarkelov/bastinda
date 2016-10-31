@@ -1,0 +1,2 @@
+# bastinda
+Application for pathologists
